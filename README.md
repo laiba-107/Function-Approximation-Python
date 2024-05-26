@@ -1,5 +1,5 @@
 # Function-Approximation-Python
-This repository contains Python scripts demonstrating the convergence and divergence of functions. It includes linear approximations, Newton's method, and integration methods like Trapezoidal, Midpoint, Simpson's, and Riemann sums. The code features visualizations and practical examples.
+This repository contains Python scripts demonstrating the convergence and divergence of functions. It includes linear approximations, Newton's method, and various integration methods like Trapezoidal, Midpoint, Simpson's, and Riemann sums. The code features visualizations and practical examples, making it a valuable resource for learning and applying these mathematical concepts.
 # Features
 Implementation of sequences and series to test for convergence or divergence
 Visualization of function behavior using Matplotlib
