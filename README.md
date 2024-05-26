@@ -26,22 +26,28 @@ Run the scripts as needed:
 python script_name.py
 
 # Scripts
-Linear Approximation
+# Linear Approximation:
+
 This script performs a linear approximation of a user-defined function at a specified point.
 
-Newton's Method
+# Newton's Method:
+
 This script implements Newton's method to find the roots of a function within a specified interval.
 
-Trapezoidal Rule
+# Trapezoidal Rule:
+
 This script uses the Trapezoidal rule to approximate the area under a curve for a given function.
 
-Midpoint Rule
+# Midpoint Rule:
+
 This script uses the Midpoint rule to approximate the area under a curve for a given function.
 
-Simpson's Rule
+# Simpson's Rule:
+
 This script uses Simpson's rule to approximate the area under a curve for a given function.
 
-Riemann Sum
+# Riemann Sum:
+
 This script calculates the left and right Riemann sums to approximate the area under a curve for a given function.
 
 # Examples
